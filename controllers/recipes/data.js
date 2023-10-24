@@ -12,7 +12,7 @@ const data = [
       'https://i0.wp.com/www.angsarap.net/wp-content/uploads/2019/09/Crispy-Adobo-Flakes-Wide.jpg?ssl=1',
     cooking_time: 30,
     meal_types: ['breakfast'],
-    preferences: ['lose weight'],
+    preferences: ['gain weight'],
     cuisines: ['tagalog', 'other filipino cuisines'],
     ingredients: [
       {
@@ -49,7 +49,7 @@ const data = [
       'https://assets.bonappetit.com/photos/61e8411b3fb9f421b7590ae4/1:1/w_2560%2Cc_limit/20211208%2520Tapsilog%2520LEDE.jpg',
     cooking_time: 20,
     meal_types: ['breakfast', 'dinner'],
-    preferences: ['lose weight'],
+    preferences: ['gain weight'],
     cuisines: ['tagalog', 'other filipino cuisines'],
     ingredients: [
       {
@@ -86,7 +86,7 @@ const data = [
       'https://www.curiouscuisiniere.com/wp-content/uploads/2022/08/champorado-vertical.1.jpg.webp',
     cooking_time: 30,
     meal_types: ['breakfast'],
-    preferences: ['lose weight'],
+    preferences: ['gain weight'],
     cuisines: ['tagalog', 'other filipino cuisines'],
     ingredients: [
       {
@@ -123,7 +123,7 @@ const data = [
       'https://www.seriouseats.com/thmb/Uw29OFjIBZTATJ6PpSMC2hckCGQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210508-arroz-caldo-melissa-hom-Hero-seriouseats-6-dbc8058635c64ac0bd3eeadd8da5ddee.jpg',
     cooking_time: 30,
     meal_types: ['breakfast', ''],
-    preferences: ['lose weight'],
+    preferences: ['gain weight'],
     cuisines: ['tagalog', 'batangas', 'other filipino cuisines'],
     ingredients: [
       {
@@ -171,7 +171,7 @@ const data = [
     image: 'https://example.com/taho.jpg',
     cooking_time: 10,
     meal_types: ['breakfast', 'snacks', 'sides', 'appetizers'],
-    preferences: ['lose weight'],
+    preferences: ['gain weight'],
     cuisines: ['tagalog', 'batangas', 'other filipino cuisines'],
     ingredients: [
       {
@@ -208,7 +208,7 @@ const data = [
       'https://www.foxyfolksy.com/wp-content/uploads/2019/02/pancit-canton-640.jpg',
     cooking_time: 30,
     meal_types: ['breakfast', 'snacks'],
-    preferences: ['lose weight'],
+    preferences: ['gain weight'],
     cuisines: ['tagalog', 'batangas', 'bicolano', 'other filipino cuisines'],
     ingredients: [
       {
@@ -257,7 +257,7 @@ const data = [
       'https://newgenbaker.com/wp-content/uploads/2020/07/Matcha-Flavored-Pandesal-1-1024x683.jpg',
     cooking_time: 5,
     meal_types: ['breakfast', 'appetizers'],
-    preferences: ['lose weight'],
+    preferences: ['gain weight'],
     cuisines: ['tagalog', 'other filipino cuisines'],
     ingredients: [
       {
@@ -681,7 +681,7 @@ const data = [
       'https://thebigmansworld.com/wp-content/uploads/2022/07/chicharrones-recipe-500x375.jpg',
     cooking_time: 30,
     meal_types: ['snacks', 'desserts', 'appetizers', 'sides'],
-    preferences: ['lose weight'],
+    preferences: ['gain weight'],
     cuisines: ['tagalog', 'other filipino cuisines'],
     ingredients: [
       {
@@ -718,7 +718,7 @@ const data = [
       'https://www.seriouseats.com/thmb/cXLaFRa5DV9S9wtY3oQ01QcU-Jc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Beauty_1-20ff60406a904cd7b35832eaef4ff585.jpg',
     cooking_time: 30,
     meal_types: ['snacks', 'desserts', 'appetizers', 'sides'],
-    preferences: ['lose weight'],
+    preferences: ['gain weight'],
     cuisines: ['tagalog', 'other filipino cuisines'],
     ingredients: [
       {
@@ -755,7 +755,7 @@ const data = [
       'https://wildflourtogo.com/cdn/shop/products/DSCF8007_8c67f001-3a9f-48fe-b8a3-c208db35f987.jpg?v=1601056452',
     cooking_time: 30,
     meal_types: ['snacks', 'desserts', 'appetizers', 'sides'],
-    preferences: ['lose weight'],
+    preferences: ['gain weight'],
     cuisines: ['tagalog', 'other filipino cuisines'],
     ingredients: [
       {
@@ -792,7 +792,7 @@ const data = [
       'https://lemonsandanchovies.com/wp-content/uploads/2021/03/Atchara-Filipino-Pickled-Green-Papaya-5.jpg',
     cooking_time: 90,
     meal_types: ['sides'],
-    preferences: ['lose weight'],
+    preferences: ['gain weight'],
     cuisines: ['tagalog', 'other filipino cuisines'],
     ingredients: [
       {
@@ -829,7 +829,7 @@ const data = [
       'https://www.recipesbynora.com/wp-content/uploads/2019/07/Ensaladang-talong-served-in-a-bowl-featured-image.jpg',
     cooking_time: 30,
     meal_types: ['sides', 'salads'],
-    preferences: ['lose weight', 'vegetarian'],
+    preferences: ['gain weight', 'vegetarian'],
     cuisines: ['tagalog', 'other filipino cuisines'],
     ingredients: [
       {
@@ -866,7 +866,7 @@ const data = [
       'https://www.allrecipes.com/thmb/0eUJSwIuhWblafbBE_IVP32SS8I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4564256-201d6b7674ba47fa81dd29604514b397.jpg',
     cooking_time: 30,
     meal_types: ['sides', 'salads'],
-    preferences: ['lose weight'],
+    preferences: ['gain weight'],
     cuisines: ['tagalog', 'other filipino cuisines'],
     ingredients: [
       {
@@ -903,7 +903,7 @@ const data = [
       'https://i0.wp.com/whattoeatph.com/wp-content/uploads/2022/02/DSC_8781.jpg?resize=720%2C576&ssl=1',
     cooking_time: 20,
     meal_types: ['salads', 'desserts'],
-    preferences: ['lose weight'],
+    preferences: ['gain weight'],
     cuisines: ['tagalog', 'other filipino cuisines'],
     ingredients: [
       {
@@ -940,7 +940,7 @@ const data = [
       'https://api.lifegetsbetter.ph/uploads/recipes/featured/Buko%20Pearl%20Salad%20-%20Semi%20Top.jpg',
     cooking_time: 10,
     meal_types: ['salads', 'desserts'],
-    preferences: ['lose weight'],
+    preferences: ['gain weight'],
     cuisines: ['tagalog', 'other filipino cuisines'],
     ingredients: [
       {
@@ -977,7 +977,7 @@ const data = [
       'https://amiablefoods.com/wp-content/uploads/guisadong-labanos-4-810x810-1-700x700.jpg',
     cooking_time: 20,
     meal_types: ['salads', 'sides'],
-    preferences: ['lose weight'],
+    preferences: ['gain weight'],
     cuisines: ['tagalog', 'other filipino cuisines'],
     ingredients: [
       {

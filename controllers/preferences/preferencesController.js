@@ -6,11 +6,6 @@ const data = [
       'person who does not eat meat, and sometimes other animal products, especially for moral, religious, or health reasons.',
   },
   {
-    name: 'lose weight',
-    description:
-      'weight loss is a decrease in body weight by either following a diet and exercise regime or because of involuntarily circumstances such as illness.',
-  },
-  {
     name: 'gain weight',
     description:
       'a strategy for increasing the number of calories consumed in order to add weight.',

@@ -42,7 +42,18 @@ app.use('/api/preferences', require('./routes/preferencesRoute'));
 app.use('/api/recipes', require('./routes/recipesRoute'));
 app.use('/api/users', require('./routes/usersRoute'));
 
-// Listen on the specified IP address and port
-http.listen(PORT, HOST, () => {
-  console.log(`Server running at http://${HOST}:${PORT}/`);
-});
+const startServer = async () => {
+  try {
+    // Call the seed function here
+    await seed();
+
+    // Start your server after seeding is complete
+    http.listen(PORT, HOST, () => {
+      console.log(`Server running at http://${HOST}:${PORT}/`);
+    });
+  } catch (error) {
+    console.error('Error occurred during seeding:', error);
+  }
+};
+
+startServer();

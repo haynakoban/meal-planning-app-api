@@ -8,7 +8,7 @@ const recipesController = require('./recipes/recipesController');
 const usersController = require('./users/usersController');
 const adminController = require('./admin/adminController');
 
-const seed = async (req, res, next) => {
+const seed = async () => {
   try {
     console.log(chalk.yellow('Seeding in progress...'));
     console.log();
@@ -62,18 +62,9 @@ const seed = async (req, res, next) => {
     console.log();
 
     console.log(chalk.green('Seeding completed successfully!'));
-
-    return res.status(200).json({
-      message: 'Seeding completed successfully',
-      status: 'success',
-      data: [],
-    });
+    process.exit(0);
   } catch (e) {
-    return res.status(500).json({
-      message: 'Error occurred while creating the items',
-      status: 'error occurred',
-      data: [],
-    });
+    return;
   }
 };
 
